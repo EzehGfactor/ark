@@ -535,6 +535,9 @@ input, select, textarea {
 				box-sizing: border-box;
 				align-items: stretch;
 			}
+			.arklogo{
+				width: 100%;
+			}
 
 				.row > * {
 					box-sizing: border-box;
@@ -780,6 +783,9 @@ input, select, textarea {
 				box-sizing: border-box;
 				align-items: stretch;
 			}
+			.arklogo{
+				width: 90%;
+			}
 
 				.row > * {
 					box-sizing: border-box;
@@ -1024,6 +1030,9 @@ input, select, textarea {
 				flex-wrap: wrap;
 				box-sizing: border-box;
 				align-items: stretch;
+			}
+			.arklogo{
+				width: 80%;
 			}
 
 				.row > * {
