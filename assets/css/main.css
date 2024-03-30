@@ -786,6 +786,9 @@ input, select, textarea {
 			.arklogo{
 				width: 90%;
 			}
+			.googlemap {
+				width: 80%;
+			}
 
 				.row > * {
 					box-sizing: border-box;
@@ -1033,6 +1036,9 @@ input, select, textarea {
 			}
 			.arklogo{
 				width: 80%;
+			}
+			.googlemap {
+				width: 70%;
 			}
 
 				.row > * {
